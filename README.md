@@ -1,12 +1,20 @@
 # Redis_course
 
 #### 介绍
+
 Java技术栈之Redis学习
+
+#### 概念
+
+Remote Dictionary Server（远程字典服务），是一个开源的可基于内存亦可持久化的日志型、Key-Value数据库。
+
+#### 作用
+
+可用作高速缓存，也可用作数据库。
 
 #### 思维导图
 
 ![输入图片说明](%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
-
 
 #### 参与贡献
 
@@ -14,7 +22,6 @@ Java技术栈之Redis学习
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
 
 #### 特技
 
