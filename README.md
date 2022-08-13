@@ -45,3 +45,13 @@ Remote Dictionary Server（远程字典服务），是一个开源的可基于�
 14.Java技术栈之Swagger学习：https://github.com/CONTINUE12/Swagger_course
 
 15.Java技术栈之SpringCloud学习：https://github.com/CONTINUE12/SpringCloud_course
+
+16.Java技术栈之Dubbo_zookeeper学习：https://github.com/CONTINUE12/Dubbo_zookeeper_course
+
+17.Java技术栈之Linux学习：https://github.com/CONTINUE12/Linux_course
+
+18.Java技术栈之JVM学习：https://github.com/CONTINUE12/JVM_course
+
+19.Java技术栈之RabbitMQ学习：https://github.com/CONTINUE12/RabbitMQ_course
+
+20.Java技术栈之ElasticSearch学习：https://github.com/CONTINUE12/Elasticsearch_course
