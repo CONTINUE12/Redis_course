@@ -37,3 +37,11 @@ Remote Dictionary Server（远程字典服务），是一个开源的可基于�
 9.Java技术栈之SpringMVC学习：https://github.com/CONTINUE12/SpringMVC_course
 
 10.Java技术栈之SpringBoot学习：https://github.com/CONTINUE12/SpringBoot_course
+
+12.Java技术栈之Ajax+Json学习：https://github.com/CONTINUE12/Ajax-Json_course
+
+13.Java技术栈之SpringSecurity学习：https://github.com/CONTINUE12/SpringSecurity_course
+
+14.Java技术栈之Swagger学习：https://github.com/CONTINUE12/Swagger_course
+
+15.Java技术栈之SpringCloud学习：https://github.com/CONTINUE12/SpringCloud_course
